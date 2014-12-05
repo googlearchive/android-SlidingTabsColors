@@ -5,8 +5,13 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [UI]
+categories:   [UI, Views]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-SlidingTabsColors
+level:        ADVANCED
+icon:         Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+apiRefs:
+    - android:android.widget.HorizontalScrollView
+    - android:android.support.v4.view.ViewPager
 license: apache2
