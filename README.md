@@ -1,3 +1,4 @@
+
 Android SlidingTabsColors Sample
 ===================================
 
